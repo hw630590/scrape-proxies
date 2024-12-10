@@ -1,4 +1,4 @@
-// This saves the proxies to a .txt, which you can then use AI to send these proxies to httpbin for example, or somewhere else.
+// This saves the proxies to a .txt, which you can then use AI to generate code to send these proxies to httpbin for example, or somewhere else.
 const axios = require('axios');
 const fs = require('fs');
 
